@@ -3,4 +3,4 @@
 - None
 
 
-![](https://komarev.com/ghpvc/?username=OlehMarkelov&flat=flat-square)
+![](https://komarev.com/ghpvc/?username=OlehMarkelov&style=flat-square)
